@@ -19,4 +19,30 @@
   }
 }
 
+.project-text {
+  border-bottom: 1px solid #979dac;
+}
 
+.project-text h3 {
+  text-align: center;
+}
+
+.project-text h5 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #979dac;
+}
+
+.project-text p {
+  text-align: center;
+}
+
+.project-text ul li {
+  text-align: center;
+  list-style: none;
+}
+
+.project-img {
+  margin-top: 30px;
+  text-align: center;
+}
